@@ -1,0 +1,57 @@
+/*
+
+Theme name: StarNews! theme
+
+Author: Pedro Leandro
+
+Description: Esse é um tema teste feito para a atividade da aula de AW no qual consiste na simulação em um site de noticias baseado no jogo Starbound.
+
+Version: 1.0
+
+Text domain: Brazil
+
+*/
+.body{
+	background-color: #04021a;
+}
+.th{
+	font-size: 6vw;
+	color: #e8eddd;
+}
+.geral{
+	background-color: #261ba6;
+	border-width: 2vw;
+	border-style: none solid solid solid;
+	border-color: #e8eddd;
+	border-radius: 1%;
+	color: #e8eddd;
+	
+}
+.dois{
+	text-align: center;
+}
+.sh{
+	font-size: 2vw;
+	color: #e8eddd;
+}
+.linha{
+	color: #e8eddd;
+}
+.foto{
+	height: 50%;
+}
+.ti{
+	font-size: 2vw;
+}
+.texto{
+	text-align: center;
+}
+.not{
+	text-align: center;
+}
+.foto{
+	max-height: 16vw;
+}
+.foto4{
+	max-height: 16vw;
+}
