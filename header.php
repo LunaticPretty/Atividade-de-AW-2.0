@@ -23,14 +23,14 @@
 					<h1 class="th"> STARNEWS! </h1>
 					<hr class="linha">
 					<br>
-					<p class="sh">O seu site noticias interestelares</p>		
+					<p class="sh">O seu site de noticias interestelares</p>		
 				</div>
 				<br>
 			</div>
 		</div>
 		<style type="text/css" id="custom-background-css">
 			body.custom-background {
-  			background-image: url("<?php echo get_template_directory_uri()?>/assets/images/fundo.jpg");
+  			background-image: url("<?php echo get_template_directory_uri()?>/assets/images/fundo.jpeg");
 			}
 		</style>
 	</head>
