@@ -37,9 +37,6 @@ Text domain: Brazil
 .linha{
 	color: #e8eddd;
 }
-.foto{
-	height: 50%;
-}
 .ti{
 	font-size: 2vw;
 }
@@ -49,9 +46,6 @@ Text domain: Brazil
 .not{
 	text-align: center;
 }
-.foto{
-	max-height: 16vw;
-}
-.foto4{
-	max-height: 16vw;
+.rodape p{
+	margin-top: 150px;
 }

@@ -28,5 +28,10 @@
 				<br>
 			</div>
 		</div>
+		<style type="text/css" id="custom-background-css">
+			body.custom-background {
+  			background-image: url("<?php echo get_template_directory_uri()?>/assets/images/fundo.jpg");
+			}
+		</style>
 	</head>
 	<body class="body">
